@@ -1,0 +1,52 @@
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp: In function 'std::vector<std::vector<float> > normalize(std::vector<std::vector<float> >)':
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp:87:80: error: a function-definition is not allowed here before '{' token
+ vector < vector <float> > blur(vector < vector < float> > grid, float blurring){
+                                                                                ^
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp:262:1: error: expected '}' at end of input
+ }
+ ^
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp:262:1: error: expected '}' at end of input
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp:262:1: error: expected '}' at end of input
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp:262:1: error: expected '}' at end of input
+In file included from C:\Users\Vince\Documents\Self driving car\histogram\localizer.cpp:14:0:
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp: In function 'std::vector<std::vector<float> > normalize(std::vector<std::vector<float> >)':
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp:87:80: error: a function-definition is not allowed here before '{' token
+ vector < vector <float> > blur(vector < vector < float> > grid, float blurring){
+                                                                                ^
+In file included from C:\Users\Vince\Documents\Self driving car\histogram\localizer.cpp:15:0:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h: At global scope:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected declaration before end of line
+In file included from C:\Users\Vince\Documents\Self driving car\histogram\localizer.cpp:14:0,
+                 from C:\Users\Vince\Documents\Self driving car\histogram\simulate.cpp:12:
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp: In function 'std::vector<std::vector<float> > normalize(std::vector<std::vector<float> >)':
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp:87:80: error: a function-definition is not allowed here before '{' token
+ vector < vector <float> > blur(vector < vector < float> > grid, float blurring){
+                                                                                ^
+In file included from C:\Users\Vince\Documents\Self driving car\histogram\localizer.cpp:15:0,
+                 from C:\Users\Vince\Documents\Self driving car\histogram\simulate.cpp:12:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h: At global scope:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected declaration before end of line
+In file included from C:\Users\Vince\Documents\Self driving car\histogram\localizer.cpp:14:0,
+                 from C:\Users\Vince\Documents\Self driving car\histogram\simulate.cpp:12,
+                 from C:\Users\Vince\Documents\Self driving car\histogram\tests.cpp:2:
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp: In function 'std::vector<std::vector<float> > normalize(std::vector<std::vector<float> >)':
+C:\Users\Vince\Documents\Self driving car\histogram\helpers.cpp:87:80: error: a function-definition is not allowed here before '{' token
+ vector < vector <float> > blur(vector < vector < float> > grid, float blurring){
+                                                                                ^
+In file included from C:\Users\Vince\Documents\Self driving car\histogram\localizer.cpp:15:0,
+                 from C:\Users\Vince\Documents\Self driving car\histogram\simulate.cpp:12,
+                 from C:\Users\Vince\Documents\Self driving car\histogram\tests.cpp:2:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected '}' before end of line
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h: At global scope:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h:16:32: error: expected declaration before end of line
